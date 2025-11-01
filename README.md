@@ -1,7 +1,7 @@
 # Hi there, I'm Yusuf Eren! 👋
 
 ## About Me
-- 🔭 I’m currently working on Banking App with React Native
+- 🔭 I’m currently pursuing my CWSE certification at Hackviser.
 - 🌱 I’m currently learning React Native backend architecture
 - 👯 I’m looking to collaborate on Full Stack projects, especially using React and Express
 - 📫 You can reach me via [email](mailto:yusuferengerek@hotmail.com)
