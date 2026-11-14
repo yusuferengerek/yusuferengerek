@@ -1,25 +1,20 @@
-# Yusuf Eren Gerek
+## Research and Projects
 
-Computer Engineering undergraduate at Adıyaman University, Türkiye (expected graduation 2028). My work focuses on security engineering and on empirical research into tool-using LLM agents.
+**Zihin: Skill and Failure Memory for LLM Agents**
 
-## Working on
+An experimental study of skill and failure memory in tool-using LLM agents, evaluated on the AppWorld benchmark. The memory mechanisms have been implemented and measured in a pilot study. The primary experiment is preregistered.
 
-- **Zihin**: skill and failure memory for LLM agents<br>
-  `Python` `AppWorld` `Ollama`
-- **Reading glasses**: offline Turkish OCR and TTS, TÜBİTAK 2209-A<br>
-  `Python` `Raspberry Pi 5` `Tesseract` `Piper` `Vosk`
-- **Delta**: vulnerability discovery for authorized testing<br>
-  `Rust` `rustls` `SQLite`
+**AI-Assisted Glasses for the Visually Impaired**
+
+TÜBİTAK 2209-A funded undergraduate research project, principal investigator. Wearable glasses that read printed Turkish text aloud, running fully offline on a Raspberry Pi 5 with on-device OCR, Turkish speech synthesis and voice command recognition.
+
+**Delta: Vulnerability Discovery for Authorized Security Testing**
+
+A vulnerability discovery engine written in Rust for bug bounty programs and licensed penetration tests. Its current core is evidence-driven: every verdict is reproducible, carries the exchange that produced it and is recorded in a tamper-evident audit log, and scope enforcement is fail-closed. Under active development.
 
 ## Public Repositories
 
 - [reverse-proxy-server](https://github.com/yusuferengerek/reverse-proxy-server): HTTP reverse proxy in TypeScript with domain, subdomain and path-based routing defined in YAML.
-
-## Certifications and Competitions
-
-- Hackviser Certified Associate Penetration Tester (CAPT), 2025
-- Hackviser Certified Cybersecurity Foundations (CORE), 2026
-- Mühendisler Molada 2025 CTF: 2nd place among 25 teams (team Don'tLook)
 
 ## Languages and Tools
 
