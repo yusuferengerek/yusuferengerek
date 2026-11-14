@@ -2,19 +2,14 @@
 
 Computer Engineering undergraduate at Adıyaman University, Türkiye (expected graduation 2028). My work focuses on security engineering and on empirical research into tool-using LLM agents.
 
-## Research and Projects
+## Working on
 
-**Zihin: Skill and Failure Memory for LLM Agents**
-
-An experimental study of skill and failure memory in tool-using LLM agents, evaluated on the AppWorld benchmark. The memory mechanisms have been implemented and measured in a pilot study. The primary experiment is preregistered.
-
-**AI-Assisted Glasses for the Visually Impaired**
-
-TÜBİTAK 2209-A funded undergraduate research project, principal investigator. Wearable glasses that read printed Turkish text aloud, running fully offline on a Raspberry Pi 5 with on-device OCR, Turkish speech synthesis and voice command recognition.
-
-**Delta: Vulnerability Discovery for Authorized Security Testing**
-
-A vulnerability discovery engine written in Rust for bug bounty programs and licensed penetration tests. Its current core is evidence-driven: every verdict is reproducible, carries the exchange that produced it and is recorded in a tamper-evident audit log, and scope enforcement is fail-closed. Under active development.
+- **Zihin**: skill and failure memory for LLM agents<br>
+  `Python` `AppWorld` `Ollama`
+- **Reading glasses**: offline Turkish OCR and TTS, TÜBİTAK 2209-A<br>
+  `Python` `Raspberry Pi 5` `Tesseract` `Piper` `Vosk`
+- **Delta**: vulnerability discovery for authorized testing<br>
+  `Rust` `rustls` `SQLite`
 
 ## Public Repositories
 
