@@ -3,11 +3,10 @@
 - **Security tooling:** vulnerability discovery for authorized testing, scope enforcement and reproducible evidence, written in Rust.
 - **LLM agents:** memory and evaluation of tool-using agents, with preregistered and reproducible experiments.
 - **Embedded and offline systems:** on-device OCR, speech synthesis and voice control on a Raspberry Pi.
-- **Secure backends:** multi-tenant services with tenant isolation enforced in PostgreSQL.
 
 ## Stack
 
-Rust · Python · TypeScript · Next.js · NestJS · Express · PostgreSQL · SQLite · Redis · Docker · Linux · PyTorch
+Rust · Python · TypeScript · Next.js · NestJS · Express · PostgreSQL · SQLite · Docker · Linux · PyTorch
 
 ## Public Repositories
 
